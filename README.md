@@ -8,11 +8,17 @@
 ![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 ![Repository](https://img.shields.io/badge/Solutions-Java-blue)
 
-## 🔗 My LeetCode Profile
+ M## 💻 LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?logo=leetcode)](https://leetcode.com/u/pandeyjee2305/)
+<p align="center">
 
----
+<a href="https://leetcode.com/u/pandeyjee2305/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-pandejee2305-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+> Solving Data Structures & Algorithms problems in **Java** to strengthen problem-solving skills and prepare for Software Engineering interviews.
 
 ## 🎯 Goal
 
