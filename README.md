@@ -8,6 +8,10 @@
 ![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
 ![Repository](https://img.shields.io/badge/Solutions-Java-blue)
 
+## 🔗 My LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?logo=leetcode)](https://leetcode.com/u/pandeyjee2305/)
+
 ---
 
 ## 🎯 Goal
