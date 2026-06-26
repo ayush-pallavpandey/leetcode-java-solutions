@@ -1,20 +1,79 @@
-# leetcode-java-solutions
-leetcode
 
-java
+# 💻 LeetCode Java Solutions
 
-dsa
+> A curated collection of Java solutions for LeetCode problems with clean code, optimized approaches, and interview-focused explanations.
 
-algorithms
+![Java](https://img.shields.io/badge/Java-17-orange)
+![LeetCode](https://img.shields.io/badge/Platform-LeetCode-yellow)
+![Status](https://img.shields.io/badge/Daily%20Practice-Active-success)
+![Repository](https://img.shields.io/badge/Solutions-Java-blue)
 
-data-structures
+---
 
-coding-interview
+## 🎯 Goal
 
-problem-solving
+- Solve **500+ LeetCode Problems**
+- Master Data Structures & Algorithms
+- Improve problem-solving skills
+- Prepare for Software Engineering interviews
 
-java-solutions
+---
 
-competitive-programming
+## 📊 Progress
 
-interview-preparation
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy | 0 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **0** |
+
+---
+
+## 📂 Repository Structure
+
+```text
+Easy/
+Medium/
+Hard/
+assets/
+docs/
+```
+
+---
+
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- HashMap
+- Linked List
+- Stack
+- Queue
+- Trees
+- Binary Search Tree
+- Heap
+- Graph
+- Dynamic Programming
+- Greedy
+- Sliding Window
+- Backtracking
+- Trie
+
+---
+
+## 🚀 Daily Challenge
+
+I solve at least one LeetCode problem regularly and document optimized Java solutions in this repository.
+
+---
+
+## ⭐ Languages
+
+- Java (Primary)
+
+---
+
+## 📜 License
+
+MIT License
