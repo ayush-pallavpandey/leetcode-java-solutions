@@ -16,6 +16,11 @@
     <img src="https://img.shields.io/badge/LeetCode-pandejee2305-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+## 📊 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/pandeyjee2305?theme=dark&font=Baloo&ext=contest"/>
+</p>
 </p>
 
 > Solving Data Structures & Algorithms problems in **Java** to strengthen problem-solving skills and prepare for Software Engineering interviews.
